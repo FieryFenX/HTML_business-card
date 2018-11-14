@@ -26,7 +26,7 @@ div.pic
 {
   margin-top: 5px;
   margin-right: 5px;
-  background-color: gray;
+  background-color: green;
   height: 150px;
   width: 17%;
   display: inline-block;
@@ -39,9 +39,9 @@ div.footer
 
 nav
 {
-  border: 5px solid black;
+  border: 5px solid blue;
   padding-right: 15px;
-  background-color: black;
+  background-color: blue;
   position: fixed;
   left: 13px;
   width: 150px;
