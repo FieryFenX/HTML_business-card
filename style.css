@@ -1,0 +1,50 @@
+section
+{
+  box-sizing: border-box;
+  padding-left: 200px;
+  width: 100%;
+  border: 5px solid blue;
+}
+
+a
+{
+  color: white;
+}
+
+ul>li
+{
+  height: 46px;
+  text-align: right;
+}
+
+p
+{
+  width: 1000px;
+}
+
+div.pic
+{
+  margin-top: 5px;
+  margin-right: 5px;
+  background-color: gray;
+  height: 150px;
+  width: 17%;
+  display: inline-block;
+}
+
+div.footer
+{
+  height: 150px;
+}
+
+nav
+{
+  border: 5px solid black;
+  padding-right: 15px;
+  background-color: black;
+  position: fixed;
+  left: 13px;
+  width: 150px;
+  height: 150px;
+}
+
